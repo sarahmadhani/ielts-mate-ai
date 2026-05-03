@@ -1,6 +1,6 @@
 # IELTS Mate AI
 
-An AI-powered IELTS learning assistant built with Python and OpenAI/OpenRouter APIs.
+An AI-powered IELTS learning assistant built with Python and OpenAI
 
 This project was created as an AI Engineering practice assignment to demonstrate:
 
@@ -127,12 +127,6 @@ Using uv:
 
 ```bash
 uv run main.py
-```
-
-Or using python:
-
-```bash
-python main.py
 ```
 
 ---
